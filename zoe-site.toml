@@ -6,7 +6,7 @@ description = "专注于提升开发效率"
 # - absolute path
 # - remote url
 # so, we must use absolute path at here
-# logo = "${__dirname}/images/logo.png"
+logo = "${__dirname}/images/wuma-dev.png"
 version = "alpha"
 primaryColor = "green"
 baseContentDir = [ "${__dirname}/content" ]
@@ -18,11 +18,6 @@ name = "Zoe"
 email = "hi@zoe.im"
 homepage = "https://zoe.im"
 avatar = "https://github.com/jiusanzhou.png"
-github = "jiusanzhou"
-twitter = "jiusanzhou"
-facebook = "jiusanzhou"
-telegram = "jiusanzhou"
-linkedin = "jiusanzhou"
 
 [[navs]]
 title = "关于我们"
@@ -35,7 +30,7 @@ github = "wumadev"
 [copyright]
 from = 2_018
 holder = "${zoe.author.name}"
-location = "Hangzhou"
+location = "Earth"
 
 [layouts]
 default = """
